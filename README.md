@@ -7,6 +7,12 @@ or food-delivery-app-fullstack-lxne3tdcl-iamalinaaa.vercel.app
 
 or food-delivery-app-frontend-five.vercel.app
 
+
+***TO RUN this project on your comp, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write 
+npm start
+***
+
+
 The main idea of app is to help user to choose shop from several ones and products available in this shop (or in all shops), add them into cart, apply discount coupons if necessary and provide information to get order submitted. Users also can find theirs history of orders.
 There are 4 pages available with different opportunities for user: 
 * Main Page where all shops are listed;
