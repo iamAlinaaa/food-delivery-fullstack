@@ -16,7 +16,7 @@ TO RUN this project ON YOUR COMP, you need to download it , open terminals in ea
 
 npm start   
 
-!!! Its important to notice that project has .env variables where API keys are hidden 
+!!! Its important to notice that project has .env variables where API keys are hidden, so you will not be able to use app locally untill you provide your mongoDB cluster connection and API for Google Maps. You can use deployed version to watch functionality or tell me to give you keys
 ***
 
 
