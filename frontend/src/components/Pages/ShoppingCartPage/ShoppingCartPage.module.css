@@ -1,0 +1,41 @@
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    min-width: 100%;
+    justify-content: space-around;
+}
+
+.userSubmitButton {
+    border: 0;
+    background-color: #FC4F00;
+    color: #fff;
+    z-index: 2;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 10px;
+    color: white;
+    width: 50%;
+    height: 40px;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin: 20px auto 110px auto;
+}
+
+.userSubmitButton:hover {
+    transform: scale(1.03);
+    background-color: #FC4F00;
+}
+
+.userSubmitButton:active {
+    transform: scale(1.05);
+    background-color: #929292;
+    opacity: 0.9;
+}
+
+.userInfo {
+    margin: auto;
+    padding: 10px 0;
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}

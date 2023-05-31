@@ -1,0 +1,31 @@
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    min-width: 100%;
+    justify-content: space-between;
+}
+
+.shopName {
+    padding: 6px;
+    cursor: pointer;
+    margin: 6px;
+    background-color: #FC4F00;
+    color: white;
+    width: 220px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.shopName:hover {
+    background-color: #929292;
+    color: white;
+    opacity: 0.9;
+}
+
+.active {
+    background-color: #929292;
+    color: white;
+    opacity: 0.9;
+
+}

@@ -1,0 +1,37 @@
+.navigationBar {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    row-gap: 3rem;
+    column-gap: 3rem;
+    padding-left: 3rem;
+}
+
+.navigationItem {
+    padding: 20px;
+    text-decoration: none;
+    color: #929292;
+}
+
+.navigationItem:hover {
+    color: #FC4F00;
+}
+.navigationItem:active {
+    color: #FC4F00;
+}
+
+.active{
+    color: #FC4F00;
+}
+
+.cartLength {
+    margin: 3px;
+    font-size: 14px;
+    font-weight: 700;
+    /* changes element's vertical position  */
+    vertical-align: super;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 10px;
+    background-color: #FC4F00;
+}

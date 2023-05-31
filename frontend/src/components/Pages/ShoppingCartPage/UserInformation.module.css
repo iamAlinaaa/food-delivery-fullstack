@@ -1,0 +1,81 @@
+.infoTitles {
+    font-size: 20px;
+}
+
+.userInfo {
+    margin: auto;
+    padding: 10px 0;
+    width: 70%;
+}
+
+.userInfo .formControl {
+    background-color: white;
+    display: block;
+    width: 100%;
+    font-size: 18px;
+    color: black;
+    border-radius: 10px;
+    border: 2px #bebebe solid;
+    padding: 5px;
+}
+
+.userInfo .formControl:focus {
+    border: 2px solid;
+    outline-color: #FC4F00;
+}
+
+.userInfo .formControl:hover {
+    border: 2px #FC4F00 solid;
+}
+
+
+/* INSIDE CALCULATE DAILY WATER (REMOVE BOOTSTRAP OUTLINE WHEN CLICKED) */
+textarea:focus,
+textarea.form-control:focus,
+input.form-control:focus,
+input[type=text]:focus,
+input[type=password]:focus,
+input[type=email]:focus,
+input[type=number]:focus,
+[type=text].formControl:focus,
+[type=password].formControl:focus,
+[type=email].formControl:focus,
+[type=tel].formControl:focus,
+[contenteditable].formControl:focus {
+    box-shadow: inset 0 -1px 0 #ddd;
+}
+
+.userSearch {
+    position: relative;
+}
+
+.userSearchButton {
+    position: absolute;
+    right: -14px;
+    top: 37px;
+    border: 0;
+    background-color: #FC4F00;
+    color: #fff;
+    outline: none;
+    margin: 0;
+    z-index: 2;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 10px;
+    color: white;
+    width: 30%;
+    height: 35px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.userSearchButton:hover {
+    transform: scale(1.03);
+    background-color: #FC4F00;
+}
+
+.userSearchButton:active {
+    transform: scale(1.05);
+    background-color: #929292;
+    opacity: 0.9;
+}
