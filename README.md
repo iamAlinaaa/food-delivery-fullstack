@@ -1,6 +1,7 @@
 # food-delivery-fullstack
-Project has been done at advanced level of difficulty. Technologies : React, Node.js, Express and MongoDB.
-***.
+Project has been done at advanced level of difficulty. Technologies : React, Node.js, Express and MongoDB
+
+***
 TO RUN DEPLOYED version go to:
 
 food-delivery-app-fullstack-git-main-iamalinaaa.vercel.app
