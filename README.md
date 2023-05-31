@@ -10,4 +10,23 @@ This app contains backend and frontend parts + database. For frontent I used Rea
 
 This project is available to run on yout localhost, as for deployment stage i have modificated some strings of code and added in another file. 
 to run this project on your comp, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write 
-npm start 
+npm start.
+
+![Снимок экрана 2023-05-31 214106](https://github.com/iamAlinaaa/food-delivery-fullstack/assets/111873795/a3687b15-52c0-485b-8427-76c07e8a64f3)
+
+Here are some screenshots of my app
+
+![Снимок экрана 2023-05-31 214248](https://github.com/iamAlinaaa/food-delivery-fullstack/assets/111873795/2b7d540a-f8dd-415b-90a1-46d139331a52)
+
+
+![Снимок экрана 2023-05-31 214317](https://github.com/iamAlinaaa/food-delivery-fullstack/assets/111873795/13abd29b-9099-421c-a054-bdcb93a2e91f)
+
+
+![Снимок экрана 2023-05-31 214402](https://github.com/iamAlinaaa/food-delivery-fullstack/assets/111873795/79c0875e-8eab-426f-8c3e-5a42de56cbde)
+
+
+![Снимок экрана 2023-05-31 214553](https://github.com/iamAlinaaa/food-delivery-fullstack/assets/111873795/ea70afea-f5bd-4094-9ddb-8c17975213b3)
+
+
+![Снимок экрана 2023-05-31 214804](https://github.com/iamAlinaaa/food-delivery-fullstack/assets/111873795/5e659e7f-496e-40db-8f73-600123a3b08e)
+
