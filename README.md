@@ -13,6 +13,7 @@ or food-delivery-app-frontend-five.vercel.app
 ***
 TO RUN this project ON YOUR COMP, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write
 
+npm install
 
 npm start   
 
