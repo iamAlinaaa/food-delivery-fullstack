@@ -1,5 +1,6 @@
 # food-delivery-fullstack
 Project has been done at Advanced level of difficulty. Technologies : React, Node.js, Express and MongoDB
+This repository contains files for localhost. Deployed version has been done with usage of my another repositories of this app
 
 ***
 TO RUN DEPLOYED version go to:
