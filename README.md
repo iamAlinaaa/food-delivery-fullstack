@@ -1,5 +1,5 @@
 # food-delivery-fullstack
-Project has been done at advanced level of difficulty. TO RUN DEPLOYED version go to:
+Project has been done at advanced level of difficulty. **TO RUN DEPLOYED version go to:
 
 food-delivery-app-fullstack-git-main-iamalinaaa.vercel.app
 
