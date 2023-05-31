@@ -11,8 +11,8 @@ or food-delivery-app-frontend-five.vercel.app
 
 
 ***
-TO RUN this project on your comp, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write 
-npm start
+TO RUN this project ON YOUR COMP, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write 
+npm start  . Its important to notice that project has .env variables where API keys are hidden 
 ***
 
 
