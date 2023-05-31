@@ -1,6 +1,6 @@
 # food-delivery-fullstack
-Project has been done at advanced level of difficulty. 
-***
+Project has been done at advanced level of difficulty. Technologies : React, Node.js, Express and MongoDB.
+***.
 TO RUN DEPLOYED version go to:
 
 food-delivery-app-fullstack-git-main-iamalinaaa.vercel.app
@@ -28,7 +28,8 @@ There are 4 pages available with different opportunities for user:
 * History Page where user can find history of order/orders by entering user email; 
 * Coupons Page where users may find good opportunities and discounts for their shopping and copy discount code to add it on Cart Page.
 
-This app contains backend and frontend parts + database. For frontent I used React and backend is Node.js. As database I used MongoDB. 
+This app contains backend and frontend parts + database.
+For frontent I used React and for backend Node.js. As database I used MongoDB. 
 
 This project is available to run on yout localhost, as for deployment stage i have modificated some strings of code and added in another file. 
 ***
