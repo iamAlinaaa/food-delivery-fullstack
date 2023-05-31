@@ -26,8 +26,15 @@ There are 4 pages available with different opportunities for user:
 This app contains backend and frontend parts + database. For frontent I used React and backend is Node.js. As database I used MongoDB. 
 
 This project is available to run on yout localhost, as for deployment stage i have modificated some strings of code and added in another file. 
-***TO RUN this project on your comp, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write 
+***
+TO RUN this project on your comp, you need to download it , open terminals IN EACH folder (in folder backend and in folder frontend separately) , and in each terminal write  
+
+npm install 
+
+
 npm start
+
+***
 
 ![Снимок экрана 2023-05-31 214106](https://github.com/iamAlinaaa/food-delivery-fullstack/assets/111873795/a3687b15-52c0-485b-8427-76c07e8a64f3)
 
