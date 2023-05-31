@@ -1,4 +1,12 @@
 # food-delivery-fullstack
+Project has been done at advanced level of difficulty. TO RUN DEPLOYED version go to:
+
+food-delivery-app-fullstack-git-main-iamalinaaa.vercel.app
+
+or food-delivery-app-fullstack-lxne3tdcl-iamalinaaa.vercel.app
+
+or food-delivery-app-frontend-five.vercel.app
+
 The main idea of app is to help user to choose shop from several ones and products available in this shop (or in all shops), add them into cart, apply discount coupons if necessary and provide information to get order submitted. Users also can find theirs history of orders.
 There are 4 pages available with different opportunities for user: 
 * Main Page where all shops are listed;
