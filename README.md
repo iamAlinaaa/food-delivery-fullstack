@@ -30,7 +30,7 @@ There are 4 pages available with different opportunities for user:
 * Coupons Page where users may find good opportunities and discounts for their shopping and copy discount code to add it on Cart Page.
 
 This app contains backend and frontend parts + database.
-For frontent I used React and for backend Node.js. As database I used MongoDB. 
+For frontent I used React and for backend Node.js + Express. As database I used MongoDB. 
 
 This project is available to run on yout localhost, as for deployment stage i have modificated some strings of code and added in another file. 
 ***
