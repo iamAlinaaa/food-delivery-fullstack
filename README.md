@@ -8,7 +8,8 @@ or food-delivery-app-fullstack-lxne3tdcl-iamalinaaa.vercel.app
 or food-delivery-app-frontend-five.vercel.app
 
 
-***TO RUN this project on your comp, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write 
+***
+TO RUN this project on your comp, you need to download it , open terminals in each folder (in folder backend and in folder frontend separately) , and in each terminal write 
 npm start
 ***
 
